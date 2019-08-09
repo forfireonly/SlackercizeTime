@@ -1,1 +1,1 @@
-“worker: python scheduled.py”
+“worker: python starterbot.py”
