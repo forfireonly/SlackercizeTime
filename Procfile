@@ -1,1 +1,2 @@
-“web: python starterbot.py”
+web: gunicorn app:app
+worker: python starterbot.py
