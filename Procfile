@@ -1,1 +1,1 @@
-web: gunicorn app:scheduled.py
+web: gunicorn scheduled.py
