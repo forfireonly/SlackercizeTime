@@ -1,1 +1,1 @@
-web: python starterbot.py
+web: python scheduled.py
