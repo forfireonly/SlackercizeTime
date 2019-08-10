@@ -1,1 +1,1 @@
-worker: python scheduled.py
+web: gunicorn app:scheduled.py
