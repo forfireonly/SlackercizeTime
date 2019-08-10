@@ -1,1 +1,1 @@
-web: gunicorn scheduled.py
+web: gunicorn scheduled:sendMessage
