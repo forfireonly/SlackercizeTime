@@ -34,7 +34,7 @@ if __name__ == "__main__":
 
   # # For testing
   msg = "Time to get up and stretch!!!" +"\n"+emojis.encode(':runner: Get up and get moving!') +  "\n Suggested exercise: " 
-  schedule.every(5).seconds.do(lambda: sendMessage(slack_client, msg+items[random.randrange(len(items))]))
+  schedule.every(20).seconds.do(lambda: sendMessage(slack_client, msg+items[random.randrange(len(items))]))
 
   # schedule.every().monday.at("13:15").do(lambda: sendMessage(slack_client, msg))
   logging.info("entering loop")
