@@ -1,4 +1,4 @@
-# SlackercizeTime
+# Slackercize
 
 Help your team staying alert by performing regular exercises during their work on Slack. 
 Every half an hour the app suggests exercise to perform.
