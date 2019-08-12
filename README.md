@@ -5,18 +5,8 @@ Every half an hour the app suggests exercise to perform.
 
 <img width="381" alt="Slackercize" src="https://user-images.githubusercontent.com/29640816/62828799-c460f100-bbab-11e9-83e1-5bcde88cefe5.png">
 
-
-## To install the app go to
-
-https://slack.com/oauth/authorize?client_id=667710638961.705048666578&scope=bot,incoming-webhook
-
-Pick the channel or the workspace for the app to be installed
-
-<img width="1402" alt="Screen Shot 2019-08-10 at 8 19 09 PM" src="https://user-images.githubusercontent.com/29640816/62828827-94661d80-bbac-11e9-9153-45126d0b2240.png">
-
-Fill out the request for app managers
-
-<img width="1192" alt="Screen Shot 2019-08-10 at 8 21 02 PM" src="https://user-images.githubusercontent.com/29640816/62828837-c5dee900-bbac-11e9-90d5-97985fa54ee3.png">
+##  The app is deployed on Heroku
+##  The app is installed on Slack App Challenge workspace in channel #apps
 
 
 The MIT License (MIT)
