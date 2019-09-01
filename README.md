@@ -8,6 +8,7 @@ Every half an hour the app suggests exercise to perform.
 ##  The app is deployed on Heroku
 ##  The app is installed on Slack App Challenge workspace in channel #apps
 
+![slack_app_challenge_winner_2](https://user-images.githubusercontent.com/29640816/64070775-e12a9a80-cc26-11e9-9c4a-5138ac3ae4f1.png)
 
 The MIT License (MIT)
 Copyright © 2019 <copyright holders>
